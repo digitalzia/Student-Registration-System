@@ -1,5 +1,5 @@
-/*** created by @ahmet_Kara 
-github_Link: https://github.com/ahmetQara ***/
+/*** created by @digitalziaa 
+github_Link: https://github.com/digitalzia ***/
 
 import java.awt.EventQueue;
 import java.awt.Image;
