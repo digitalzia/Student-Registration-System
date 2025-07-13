@@ -1,5 +1,5 @@
-# Student-Registration-System
- Student Registration System in Java with admin panel and SQL database
+# Student-Entry-Registration-System
+ Student Entry Registration System in Java with admin panel and SQL database updated
  
  
  Login Window:
