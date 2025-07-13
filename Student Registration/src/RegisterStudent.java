@@ -1,5 +1,5 @@
-/*** created by @ahmet_Kara 
-github_Link: https://github.com/ahmetQara ***/
+/*** created by @digitalzia 
+github_Link: https://github.com/digitalzia ***/
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
