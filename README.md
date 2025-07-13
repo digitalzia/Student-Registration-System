@@ -2,7 +2,7 @@
  Student Registration System in Java with admin panel and SQL database
  
  
- Login Window
+ Login Window:
  
 ![1-Login](https://user-images.githubusercontent.com/18248422/168419881-3bd8b028-3c00-42f8-9a1a-acd51bf75d2b.PNG)
 
